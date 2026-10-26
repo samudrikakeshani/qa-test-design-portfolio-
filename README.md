@@ -3,37 +3,54 @@
 
 ## About This Project
 
-This portfolio demonstrates my software testing knowledge through practical examples of test design, defect reporting, and risk-based testing.
+Welcome to my QA portfolio! This repository demonstrates my understanding of software testing through practical examples of test design, defect reporting, and test planning.
 
-## Project Contents
+As a QA Engineer with 2+ years of experience, I'm continuously strengthening my testing skills and building a foundation for my transition into an SDET role.
 
-### 1. Test Scenarios and Test Cases
-- Positive and negative test scenarios
-- Boundary value testing
-- Equivalence partitioning
-- Expected results and actual results
+## Portfolio Contents
+
+### 1. Test Cases
+Sample login test cases covering positive and negative scenarios, input validation, and password masking.
+
+[View Login Test Cases](test-cases/login-test-cases.md)
 
 ### 2. Bug Reports
-- Clear defect descriptions
-- Steps to reproduce
-- Expected and actual results
-- Severity and priority
+A sample defect report demonstrating how to document reproduction steps, expected results, actual results, severity, and priority.
+
+[View Login Bug Report](bug-reports/login-validation-bug.md)
 
 ### 3. Test Strategy
-- Scope of testing
-- Testing approach
-- Risks and priorities
-- Entry and exit criteria
+A sample test strategy covering testing scope, approach, risks, entry criteria, exit criteria, and deliverables.
 
-## Tools and Techniques
+[View Login Test Strategy](test-strategy/login-test-strategy.md)
 
-- Manual Testing
-- Jira (Defect Tracking)
+## Testing Knowledge Demonstrated
+
 - Functional Testing
 - Regression Testing
 - Smoke Testing
 - Exploratory Testing
+- Positive and Negative Testing
+- Boundary Value Analysis
+- Defect Reporting
+- Risk-Based Testing
 
-## Objective
+## Tools
 
-To demonstrate practical QA skills and a structured approach to improving software quality.
+- Jira — defect tracking and test management
+- GitHub — version control and portfolio management
+
+## Project Status
+
+This portfolio is a work in progress. More practical testing examples and automation projects will be added as I continue learning.
+
+## About Me
+
+I'm a QA Engineer interested in test automation, API testing, and continuous improvement in software quality.
+
+I'm currently developing my skills in Selenium WebDriver, Java, TestNG, Postman, SQL, and GitHub.
+
+## Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/samudrika-keshani/)
+- GitHub: [My GitHub Profile](https://github.com/samudrikakeshani)
